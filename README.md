@@ -4,7 +4,7 @@
 
 Esse projeto foi desenvolvido como parte da disciplina de Fundamentos de Desenvolvimento de Hardware. 
 
-Esta plataforma tem como objetivo fornecer uma plataforma para que os usuários possam compartilhar e descobrir avaliações de jogos.
+O "CheckPoint" tem como objetivo fornecer uma plataforma para que os usuários possam compartilhar, salvar, descobrir e escrever avaliações de jogos.
 
 
 ## Membros da Equipe
