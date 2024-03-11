@@ -8,14 +8,14 @@ O "CheckPoint" tem como objetivo fornecer uma plataforma para que os usuários p
 
 **Seu guia completo para avaliar e descobrir jogos!**
 
-**## O que é?**
+## O que é?
 
 * Avalie e comente jogos
 * Organize sua biblioteca
 * Descubra novos jogos
 * Conecte-se com a comunidade
 
-**## Histórias:**
+## Histórias:
 
 * Fazer perfil
 * Editar perfil
@@ -31,11 +31,11 @@ O "CheckPoint" tem como objetivo fornecer uma plataforma para que os usuários p
 * Colocar 4 jogos favoritos na pagina do seu perfil
 * Trending games
 
-**## Sobre:**
+## Sobre:
 
 **GGuardians** é um grupo de jogadores, e alunos da faculdade CesarSchoo, apaixonados por criar ferramentas que aprimoram a experiência de jogar.
 
-**## Missão:**
+## Missão:
 
 Criar um sistema de review de jogos que seja útil, engajador e inovador.
 
@@ -50,7 +50,7 @@ Este projeto foi desenvolvido por:
     Larissa Sobrinho
     Heloísa Tanaka
     
-##Processo: 
+## Processo: 
 
  1. Ideação:
     Tudo começa com um brainstorming.
