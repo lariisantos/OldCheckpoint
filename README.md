@@ -25,6 +25,11 @@ A Plataforma de Review de Jogos é uma aplicação web que permite aos usuários
 
     -aqui colocaremos as 10 histórias
 
+## Low-Fi
+
+o Low-fi está na plataforma FIGMA:
+
+ https://www.figma.com/file/W3DIDKySs4qjSGM0FCd8S7/Low-Fi?type=design&mode=design&t=P0gxYO7xUYfw3qjC-0
 
 ## Tecnologias Utilizadas
 
