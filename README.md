@@ -13,7 +13,7 @@ Este projeto foi desenvolvido por:
 
     Antonio Paulo Barros
     Clara Machado
-    João Pedro Fontes
+    João Pedro Fontes Ferreira
     João Pedro Maranhão
     Larissa Sobrinho
     Heloísa Tanaka
