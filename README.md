@@ -6,6 +6,38 @@ Esse projeto foi desenvolvido como parte da disciplina de Fundamentos de Desenvo
 
 O "CheckPoint" tem como objetivo fornecer uma plataforma para que os usuários possam compartilhar, salvar, descobrir e escrever avaliações de jogos.
 
+**Seu guia completo para avaliar e descobrir jogos!**
+
+**## O que é?**
+
+* Avalie e comente jogos
+* Organize sua biblioteca
+* Descubra novos jogos
+* Conecte-se com a comunidade
+
+**## Histórias:**
+
+* Fazer perfil
+* Editar perfil
+* Avaliação (0-5 estrelas)
+* Fazer review (Comentada)
+* Editar review
+* Deletar review
+* Favoritar
+* Comentários
+* Wishlist
+* Seguir outras pessoas
+* Ver atividade dos seguidos
+* Colocar 4 jogos favoritos na pagina do seu perfil
+* Trending games
+
+**## Sobre:**
+
+**GGuardians** é um grupo de jogadores, e alunos da faculdade CesarSchoo, apaixonados por criar ferramentas que aprimoram a experiência de jogar.
+
+**## Missão:**
+
+Criar um sistema de review de jogos que seja útil, engajador e inovador.
 
 ## Membros da Equipe
 
@@ -18,18 +50,13 @@ Este projeto foi desenvolvido por:
     Larissa Sobrinho
     Heloísa Tanaka
     
+##Processo: 
 
-## Visão Geral do Projeto
-
-A Plataforma de Review de Jogos é uma aplicação web que permite aos usuários:
-
-    -aqui colocaremos as 10 histórias
-
-## Low-Fi
-
-o Low-fi está na plataforma FIGMA:
-
- https://www.figma.com/file/W3DIDKySs4qjSGM0FCd8S7/Low-Fi?type=design&mode=design&t=P0gxYO7xUYfw3qjC-0
+ 1. Ideação:
+    Tudo começa com um brainstorming.
+    Reunimos a equipe para discutir ideias e soluções.
+    Exploramos diferentes possibilidades e esboçamos os primeiros conceitos.
+    
 
 ## Tecnologias Utilizadas
 
