@@ -60,7 +60,13 @@ Este projeto foi desenvolvido por:
     Reunimos a equipe para discutir ideias e soluções.
     
     Exploramos diferentes possibilidades e esboçamos os primeiros conceitos.
-    
+    ![img1](https://github.com/lariisantos/Projeto-FDS/assets/95260401/0631411b-3a16-4088-98c8-ad73de8c9d1a)
+    ![imgSearch](https://github.com/lariisantos/Projeto-FDS/assets/95260401/8b1d62be-a893-4909-adc6-b59d251649ed)
+    ![imgTrending](https://github.com/lariisantos/Projeto-FDS/assets/95260401/93e24056-f096-49ca-8552-58849e66b378)
+    ![imgUserGames](https://github.com/lariisantos/Projeto-FDS/assets/95260401/cfe8c3be-5e1f-4fb0-8b36-5c78514bd51b)
+    ![imgWishlist](https://github.com/lariisantos/Projeto-FDS/assets/95260401/b307c4de-e154-4ff4-a73c-70688dd2982d)
+    ![imgGamePage](https://github.com/lariisantos/Projeto-FDS/assets/95260401/a15be169-ef5d-43bf-a830-c257e0c6bd5d)
+
 
 ## Tecnologias Utilizadas
 
