@@ -1,8 +1,6 @@
 # Plataforma de Review de Jogos
 ![image](https://github.com/lariisantos/Projeto-FDS/assets/142417937/f018c00d-9b12-4d22-a83e-7bba8b0d4c38)
 
-
-
 Esse projeto foi desenvolvido como parte da disciplina de Fundamentos de Desenvolvimento de Hardware. 
 
 O "CheckPoint" tem como objetivo fornecer uma plataforma para que os usuários possam compartilhar, salvar, descobrir e escrever avaliações de jogos.
@@ -70,3 +68,54 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
     Django
     
+## Rodando em ambiente local
+
+Para rodar em ambiente **local**, siga os passos:
+
+1. Crie seu ambiente virtual python executando:
+
+    Para o **Windows**: 
+
+    ```bash
+    python -m venv venv
+    ```
+
+    Para o **Linux**:
+
+    ```bash
+    python3 -m venv venv
+    ```
+
+2. Ative seu ambiente virtual:
+
+    Para o **Windows**: 
+
+    ```bash
+    .\venv\Scripts\activate
+    ```
+
+    Para o **Linux**:
+
+    ```bash
+    source venv/bin/activate
+    ```
+
+3. Instale as dependências:
+
+    ```bash
+    pip install -r .\requirements.txt
+    ```
+
+4. Rode o servidor localmente:
+
+    Para o **Windows**: 
+
+    ```bash
+    python manage.py runserver
+    ```
+
+    Para o **Linux**: 
+
+    ```bash
+    python3 manage.py runserver
+    ```
