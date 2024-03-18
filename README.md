@@ -130,4 +130,4 @@ Para rodar em ambiente **local**, siga os passos:
 
 Entrega 1
 
-    [link] (https://drive.google.com/file/d/1uiElRrR0IEcxHCsAufnkhebNVL0oqs2F/view)
+[Link Screencast protótipo lo-fi](https://drive.google.com/file/d/1uiElRrR0IEcxHCsAufnkhebNVL0oqs2F/view)
