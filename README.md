@@ -130,4 +130,9 @@ Para rodar em ambiente **local**, siga os passos:
 
 Entrega 1
 
-[Link Screencast protótipo lo-fi](https://drive.google.com/file/d/1uiElRrR0IEcxHCsAufnkhebNVL0oqs2F/view)
+- [Link Screencast protótipo lo-fi](https://drive.google.com/file/d/1uiElRrR0IEcxHCsAufnkhebNVL0oqs2F/view)
+
+- Progresso no Jira
+![image](https://github.com/lariisantos/Checkpoint/assets/95260401/a062f333-4a72-43fd-b201-41666ff7a471)
+![image](https://github.com/lariisantos/Checkpoint/assets/95260401/68060e89-ebb2-4ba9-a1ea-532fb23e76f1)
+
