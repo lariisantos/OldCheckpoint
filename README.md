@@ -32,7 +32,7 @@ O "CheckPoint" tem como objetivo fornecer uma plataforma para que os usuários p
 
 ## Sobre:
 
-**GGuardians** é um grupo de jogadores, e alunos da faculdade CesarSchoo, apaixonados por criar ferramentas que aprimoram a experiência de jogar.
+**GGuardians** é um grupo de jogadores, e alunos da faculdade CesarSchool, apaixonados por criar ferramentas que aprimoram a experiência de jogar.
 
 ## Missão:
 
@@ -72,7 +72,8 @@ Este projeto foi desenvolvido por:
     ![Página do Jogo](https://github.com/lariisantos/Checkpoint/assets/130470569/6c7cea83-326f-4e33-a455-bd28417e27ef)
     ![Criar Review](https://github.com/lariisantos/Checkpoint/assets/130470569/c860edf9-599f-47b5-b9c7-f656a1bb7f50)
     ![Visulizar Review](https://github.com/lariisantos/Checkpoint/assets/130470569/ea482fea-9553-4166-bc8d-0f9f33045074)
-    ![Comentar Review](https://github.com/lariisantos/Checkpoint/assets/130470569/31d85499-d4a4-42f5-b5a3-4c62758a8444)
+    ![Comentar Review](![image](https://github.com/lariisantos/Checkpoint/assets/95260401/56225d7e-bb68-4dc4-a814-382e86ef73c8)
+)
 
 
 
@@ -138,7 +139,7 @@ Para rodar em ambiente **local**, siga os passos:
 
 Entrega 1
 
-- [Link Screencast protótipo lo-fi](https://drive.google.com/file/d/1uiElRrR0IEcxHCsAufnkhebNVL0oqs2F/view)
+- [Link Screencast protótipo lo-fi](https://www.youtube.com/watch?v=2ysd68vxMM0)
 
 - Progresso no Jira
 ![image](https://github.com/lariisantos/Checkpoint/assets/95260401/a062f333-4a72-43fd-b201-41666ff7a471)
