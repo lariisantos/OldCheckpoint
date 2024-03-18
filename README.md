@@ -72,7 +72,7 @@ Este projeto foi desenvolvido por:
     ![Página do Jogo](https://github.com/lariisantos/Checkpoint/assets/130470569/6c7cea83-326f-4e33-a455-bd28417e27ef)
     ![Criar Review](https://github.com/lariisantos/Checkpoint/assets/130470569/c860edf9-599f-47b5-b9c7-f656a1bb7f50)
     ![Visulizar Review](https://github.com/lariisantos/Checkpoint/assets/130470569/ea482fea-9553-4166-bc8d-0f9f33045074)
-    ![Comentar Review](![image](https://github.com/lariisantos/Checkpoint/assets/95260401/56225d7e-bb68-4dc4-a814-382e86ef73c8))
+    ![Comentar Review](![image](https://github.com/lariisantos/Checkpoint/assets/95260401/56225d7e-bb68-4dc4-a814-382e86ef73c8)
 
 
 
