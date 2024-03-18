@@ -125,3 +125,9 @@ Para rodar em ambiente **local**, siga os passos:
     ```bash
     python3 manage.py runserver
     ```
+
+## ENTREGAS
+
+Entrega 1
+
+    ![Apresentação do protótipo]((https://drive.google.com/file/d/1uiElRrR0IEcxHCsAufnkhebNVL0oqs2F/view)https://drive.google.com/file/d/1uiElRrR0IEcxHCsAufnkhebNVL0oqs2F/view)
