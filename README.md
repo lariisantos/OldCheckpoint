@@ -60,12 +60,20 @@ Este projeto foi desenvolvido por:
     Reunimos a equipe para discutir ideias e soluções.
     
     Exploramos diferentes possibilidades e esboçamos os primeiros conceitos.
-    ![img1](https://github.com/lariisantos/Projeto-FDS/assets/95260401/0631411b-3a16-4088-98c8-ad73de8c9d1a)
-    ![imgSearch](https://github.com/lariisantos/Projeto-FDS/assets/95260401/8b1d62be-a893-4909-adc6-b59d251649ed)
-    ![imgTrending](https://github.com/lariisantos/Projeto-FDS/assets/95260401/93e24056-f096-49ca-8552-58849e66b378)
-    ![imgUserGames](https://github.com/lariisantos/Projeto-FDS/assets/95260401/cfe8c3be-5e1f-4fb0-8b36-5c78514bd51b)
-    ![imgWishlist](https://github.com/lariisantos/Projeto-FDS/assets/95260401/b307c4de-e154-4ff4-a73c-70688dd2982d)
-    ![imgGamePage](https://github.com/lariisantos/Projeto-FDS/assets/95260401/a15be169-ef5d-43bf-a830-c257e0c6bd5d)
+    ![Sign In](https://github.com/lariisantos/Checkpoint/assets/130470569/ab4199ad-89ff-49c9-8564-2569bede10b6)
+    ![Sign Up](https://github.com/lariisantos/Checkpoint/assets/130470569/d405ec49-1cc8-4bb5-a93e-738cd0f1cdcc)
+    ![Home](https://github.com/lariisantos/Checkpoint/assets/130470569/a697c2ca-fc04-48e3-9085-0dbc63d6c5b7)
+    ![Search Screen](https://github.com/lariisantos/Checkpoint/assets/130470569/d6de3710-03ee-417e-b026-fe0693606bed)
+    ![Meu Perfil](https://github.com/lariisantos/Checkpoint/assets/130470569/9786fd30-8397-4c74-9926-7bbdbb476a15)
+    ![Lista de Amigos](https://github.com/lariisantos/Checkpoint/assets/130470569/2d4c9452-5e06-4315-b986-90675edee916)
+    ![Perfil do Usuário 1](https://github.com/lariisantos/Checkpoint/assets/130470569/ea760ce9-6261-4605-a2e2-335eb0461b37)
+    ![Perfil do Usuário 2](https://github.com/lariisantos/Checkpoint/assets/130470569/1c9e083f-ff68-4ba8-8d7e-8a2513ae92c7)
+    ![Configurações](https://github.com/lariisantos/Checkpoint/assets/130470569/5f2543d6-c0e0-4ef7-b26b-73a23b3823c9)
+    ![Página do Jogo](https://github.com/lariisantos/Checkpoint/assets/130470569/6c7cea83-326f-4e33-a455-bd28417e27ef)
+    ![Criar Review](https://github.com/lariisantos/Checkpoint/assets/130470569/c860edf9-599f-47b5-b9c7-f656a1bb7f50)
+    ![Visulizar Review](https://github.com/lariisantos/Checkpoint/assets/130470569/ea482fea-9553-4166-bc8d-0f9f33045074)
+    ![Comentar Review](https://github.com/lariisantos/Checkpoint/assets/130470569/31d85499-d4a4-42f5-b5a3-4c62758a8444)
+
 
 
 ## Tecnologias Utilizadas
