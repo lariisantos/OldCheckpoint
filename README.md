@@ -16,19 +16,19 @@ O "CheckPoint" tem como objetivo fornecer uma plataforma para que os usuários p
 
 ## Histórias:
 
-* Fazer perfil
-* Editar perfil
-* Avaliação (0-5 estrelas)
-* Fazer review (Comentada)
-* Editar review
-* Deletar review
-* Favoritar
-* Comentários
-* Wishlist
-* Seguir outras pessoas
-* Ver atividade dos seguidos
-* Colocar 4 jogos favoritos na pagina do seu perfil
-* Trending games
+* Eu, como usuário típico, gostaria de editar meu perfil
+* Eu como usuário gostariar de avaliar (0-5 estrelas) os jogos disponíveis. 
+* Eu como usuário típico gostaria de favoritar jogos para que apareçam em meu perfil.
+* Eu como usuário típico gostaria de poder, ao visualizar a review de um usuário, poder comentar sobre sua review e o respectivo usuário poder visualizar os comentários na sua review.
+* Eu como usuário gostariar de fazer review (comentada)
+* Eu como usuário típico gostaria de selecionar jogos e colocar uma marcação de “na lista de desejos” ou “wishlist”, para demonstrar jogos que são desejados por mim, além de poder visualizar a wishlist de outros usuários.
+* Eu como usuário gostariar de apagar review  já criada 
+* Eu como usuário gostariar de editar review já criada 
+* Eu como usuário típico gostaria de pesquisar o nome de usuários, visualizar o respectivo perfil e seguir esta pessoa, a fim de poder acompanhar suas atividades recentes.
+* Eu como usuário típico gostaria de ver uma aba com reviews recentes de pessoas seguidas, além de poder ter o acesso a review.
+* Eu como usuário típico, gostaria de poder colocar 2 jogos com a marcação de “favorito” para que apareça na página do meu perfil.
+* Eu como usuário típico, eu gostaria de visualizar os jogos categorizados em “tendência”, os mais visualizados e jogados pelos usuários.
+* Eu, como usuário típico, gostaria de comentar em um perfil
 
 ## Sobre:
 
