@@ -60,19 +60,20 @@ Este projeto foi desenvolvido por:
     Reunimos a equipe para discutir ideias e soluções.
     
     Exploramos diferentes possibilidades e esboçamos os primeiros conceitos.
-    ![Sign In](https://github.com/lariisantos/Checkpoint/assets/130470569/ab4199ad-89ff-49c9-8564-2569bede10b6)
-    ![Sign Up](https://github.com/lariisantos/Checkpoint/assets/130470569/d405ec49-1cc8-4bb5-a93e-738cd0f1cdcc)
-    ![Home](https://github.com/lariisantos/Checkpoint/assets/130470569/a697c2ca-fc04-48e3-9085-0dbc63d6c5b7)
-    ![Search Screen](https://github.com/lariisantos/Checkpoint/assets/130470569/d6de3710-03ee-417e-b026-fe0693606bed)
-    ![Meu Perfil](https://github.com/lariisantos/Checkpoint/assets/130470569/9786fd30-8397-4c74-9926-7bbdbb476a15)
-    ![Lista de Amigos](https://github.com/lariisantos/Checkpoint/assets/130470569/2d4c9452-5e06-4315-b986-90675edee916)
-    ![Perfil do Usuário 1](https://github.com/lariisantos/Checkpoint/assets/130470569/ea760ce9-6261-4605-a2e2-335eb0461b37)
-    ![Perfil do Usuário 2](https://github.com/lariisantos/Checkpoint/assets/130470569/1c9e083f-ff68-4ba8-8d7e-8a2513ae92c7)
-    ![Configurações](https://github.com/lariisantos/Checkpoint/assets/130470569/5f2543d6-c0e0-4ef7-b26b-73a23b3823c9)
-    ![Página do Jogo](https://github.com/lariisantos/Checkpoint/assets/130470569/6c7cea83-326f-4e33-a455-bd28417e27ef)
-    ![Criar Review](https://github.com/lariisantos/Checkpoint/assets/130470569/c860edf9-599f-47b5-b9c7-f656a1bb7f50)
-    ![Visulizar Review](https://github.com/lariisantos/Checkpoint/assets/130470569/ea482fea-9553-4166-bc8d-0f9f33045074)
-    ![Comentar Review](![image](https://github.com/lariisantos/Checkpoint/assets/95260401/56225d7e-bb68-4dc4-a814-382e86ef73c8)
+    ![Sign In](https://github.com/lariisantos/Checkpoint/assets/95260401/9763776b-e128-4880-91fd-a07e4082a931)
+    ![Sign Up](https://github.com/lariisantos/Checkpoint/assets/95260401/4b2d12dc-d25c-4ebb-b571-7ac36beec180)
+    ![Home](https://github.com/lariisantos/Checkpoint/assets/95260401/e1215f59-9828-4421-bd63-9c5a962d0e4c)
+    ![Search Screen](https://github.com/lariisantos/Checkpoint/assets/95260401/5cad22c5-ae50-43e3-bafe-f092433dd6cc)
+    ![Meu Perfil](https://github.com/lariisantos/Checkpoint/assets/95260401/a73badad-15f0-40e7-8663-def7a564b075)
+    ![Lista de Amigos](https://github.com/lariisantos/Checkpoint/assets/95260401/ee72c11f-7492-42d5-a680-6cd80d5debb9)
+    ![Perfil do Usuário 1](https://github.com/lariisantos/Checkpoint/assets/95260401/0d45c723-2c1e-4943-9290-d805268ee680)
+    ![Perfil do Usuário 2](https://github.com/lariisantos/Checkpoint/assets/95260401/b325e362-77b9-45fc-b86c-943d579cf2d4)
+    ![Configurações](https://github.com/lariisantos/Checkpoint/assets/95260401/e7abf41b-8e8c-4dfe-896c-4df1ec152639)
+    ![Página do Jogo](https://github.com/lariisantos/Checkpoint/assets/95260401/9c0bd66d-9911-45e7-b6dd-d2eba2ce02a6)
+    ![Criar Review](https://github.com/lariisantos/Checkpoint/assets/95260401/0c0d0305-7c56-4ddf-9e02-b5e2a6cc0315)
+    ![Visualizar Review](https://github.com/lariisantos/Checkpoint/assets/95260401/54d0e6d0-e71c-4b44-b085-fc96d4ea06f0)
+    ![Comentar Review](https://github.com/lariisantos/Checkpoint/assets/95260401/ae12878e-d5d1-4ac2-a2a1-5aa0048828fd)
+
 
 
 
