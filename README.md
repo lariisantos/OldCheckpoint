@@ -89,7 +89,7 @@ Para rodar em ambiente **local**, siga os passos:
 
 1. Crie seu ambiente virtual python executando:
 
-    Para o **Windows**: 
+    Para o **Windows**:
 
     ```bash
     python -m venv venv
@@ -103,7 +103,13 @@ Para rodar em ambiente **local**, siga os passos:
 
 2. Ative seu ambiente virtual:
 
-    Para o **Windows**: 
+    Para o **Windows**:<br>
+    - Antes, no **powershell**:
+
+        ```bash
+        Set-ExecutionPolicy Unrestricted -Scope CurrentUser
+        ```
+
 
     ```bash
     .\venv\Scripts\activate
