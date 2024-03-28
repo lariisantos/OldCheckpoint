@@ -1,10 +1,27 @@
 {% extends 'autenticacao/base.html' %}
+{% load static %}
+
+{% block head %}
+    <link rel="stylesheet" href="{% static 'autenticacao/styles/signin.css' %}">
+    <link rel="stylesheet" href="{% static 'root/styles/style.css' %}">
+{% endblock %}
 
 {% block body %}
-    <form action="">
-        <input type="text">
-        <button>logar</button>
-    </form>
-
-    <a href="{% url 'autenticacao:signup' %}">criar conta</a>
+    <div class="content">
+        <div class="container-column full-height">
+            <div class="flex-1"></div>
+            <h1>Login</h1>
+            
+            <form class="flex-1" action="">
+                <input class="poppins-regular" placeholder="Usuário" type="text" name="username">
+                <input class="poppins-regular" placeholder="Senha" type="password" name="password">
+                <button class="poppins-semibold">Sign in</button>
+            </form>
+    
+            <div class="container-row flex-1">
+                <p class="poppins-medium tiny">Não possui uma conta?</p>
+                <a class="poppins-medium tiny link" href="{% url 'autenticacao:signup' %}">Cadastre-se</a>
+            </div>
+        </div>
+    </div>
 {% endblock %}
