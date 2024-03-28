@@ -1,0 +1,10 @@
+{% extends 'autenticacao/base.html' %}
+
+{% block body %}
+    <form action="">
+        <input type="text">
+        <button>logar</button>
+    </form>
+
+    <a href="{% url 'autenticacao:signup' %}">criar conta</a>
+{% endblock %}
