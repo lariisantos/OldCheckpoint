@@ -75,6 +75,8 @@ Este projeto foi desenvolvido por:
     ![Comentar Review](https://github.com/lariisantos/Checkpoint/assets/95260401/ae12878e-d5d1-4ac2-a2a1-5aa0048828fd)
 
 
+## Método utilizado - pair programming
+O projeto foi feito utilizando o pair-programming, com duplas randomizadas e alternadas a cada semana
 
 
 ## Tecnologias Utilizadas
