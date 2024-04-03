@@ -24,6 +24,10 @@ class SignupView(View):
         if(user.exists()):
             messages.add_message(req, constants.ERROR, 'Username já existe!')
         else:
+            if(password == ""):
+                messages.add_message(req, constants.ERROR, 'Insira uma senha válida')
+                return render(req, 'autenticacao/signup.html')
+            
             if(password != c_password):
                 messages.add_message(req, constants.ERROR, 'As senhas não são iguais!')
             else:

@@ -18,6 +18,14 @@
                 <input class="poppins-regular" placeholder="Senha" type="password" name="password">
                 <button class="poppins-semibold">Sign in</button>
             </form>
+
+            {% if messages %}
+                {% for message in messages %}
+                    <div class="">
+                        {{message}}
+                    </div>
+                {% endfor %}
+            {% endif %}
     
             <div class="container-row flex-1">
                 <p class="poppins-medium tiny">Não possui uma conta?</p>
