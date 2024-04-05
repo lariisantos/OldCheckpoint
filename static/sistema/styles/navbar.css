@@ -1,0 +1,33 @@
+.navbar-brand {
+    margin-right: 20px;
+}
+
+.form-inline .form-control {
+    width: 100px; /* Ajuste conforme necessário */
+}
+
+.navbar-nav .nav-item {
+    margin-left: 10px;
+}
+
+.navbar-nav .nav-item:last-child {
+    margin-left: auto;
+}
+/* Adicione este código ao seu arquivo de estilo CSS */
+
+.navbar-brand {
+    margin-right: 20px;
+}
+
+.form-inline .form-control {
+    width: 300px; /* Ajuste conforme necessário */
+}
+
+.navbar-nav .nav-item {
+    margin-left: 10px;
+}
+
+.navbar-nav .nav-item:last-child {
+    margin-left: auto;
+}
+

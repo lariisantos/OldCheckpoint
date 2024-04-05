@@ -1,4 +1,67 @@
-body{
-    background-color: grey;
+/* Adicione este código ao seu arquivo pagjogo.css */
+
+body {
+    font-family: 'Poppins', sans-serif;
 }
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.rating {
+    unicode-bidi: bidi-override;
+    direction: rtl;
+    text-align: center;
+    font-size: 30px;
+}
+
+.rating input {
+    display: none;
+}
+
+.rating label {
+    display: inline-block;
+    cursor: pointer;
+    color: #ccc;
+}
+
+.rating label:hover,
+.rating label:hover ~ label,
+.rating input:checked ~ label {
+    color: #ffc107;
+}
+
+.comment-form {
+    margin-top: 20px;
+}
+
+.comment-form textarea {
+    resize: none;
+}
+/* Adicione este código ao seu arquivo pagjogo.css */
+
+.rating {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+}
+
+.rating input {
+    display: none;
+}
+
+.rating label {
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    background-image: url('star_inactive.png'); /* Substitua 'star_inactive.png' pelo caminho da sua imagem de estrela inativa */
+    background-size: cover;
+}
+
+.rating label:hover,
+.rating input:checked ~ label {
+    background-image: url('star_active.png'); /* Substitua 'star_active.png' pelo caminho da sua imagem de estrela ativa */
+}
+
 
